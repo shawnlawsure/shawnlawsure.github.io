@@ -1,31 +1,31 @@
 # Site
-repository: sproogen/resume-theme
+repository: shawnlawsure/shawnlawsure.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Shawn Lawsure
+title: Full-Stack Software Developer
+email: slawsure@gmail.com
+website: https://shawnlawsure.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: 
+github_username:  shawnlawsure
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: 
+linkedin_username: shawnlawsure
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: 
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,9 +48,17 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  For over 25 years I have worked in the Information Systems field as both a full-time employee and an independent contractor for a variety of companies.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I have extensive professional experience with numerous programming languages and technologies including C#, JavaScript (including related libraries like jQuery, React, Knockout, and Vue), SQL, VB.NET, and ASP.NET as well as a working knowledge of a great variety of others.  I also have an advanced understanding of the concepts behind these technologies including Object-Oriented Programming, Relational Data, Functional Programming, MVC and MVVM.
+
+  I also have extensive professional experience using various database technologies, including SQLServer and mySQL,  and have developed advanced skills in database design as well as SQL programming.
+ 
+  In nearly all of the work I have been involved with in the past 15 years I have played a lead role in the design as well as the development of the work.
+
+  I invite you to view my professional profile/resume at http://www.linkedin.com/in/shawnlawsure where you will also find links to my published technical articles and code.
+
+  You are welcome to contact me anytime.
 
 content:
   - title: Projects # Title for the section
@@ -61,9 +69,9 @@ content:
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Stamp Collector's Catalog in React/Redux
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/shawnlawsure/stamp
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
