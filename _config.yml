@@ -75,6 +75,36 @@ content:
         description: | # this will include new lines to allow paragraphs
           The backend for a SPA using <mark>Node.js</mark> and <mark>MySQL</mark> that exposes a REST api.
 
+      - layout: top-middle
+        title: Zenith Controls - TypeScript
+        link: github.com/shawnlawsure/zenith-controls
+        # link_text: Project Website
+        additional_links:
+          - title:  Zenith Controls - TypeScript
+            icon: fab fa-github
+            url: github.com/shawnlawsure/zenith-controls
+        description: | # this will include new lines to allow paragraphs
+          A suite of web UI controls written in <mark>TypeScript</mark>.  Includes the following controls: Calendar, CheckBoxList, DropDown, Grid, ListBox, and TextBox.
+
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Modularization and Encapsulation in JavaScript
+        link: codeproject.com/Articles/1208822/Modularization-and-Encapsulation-in-JavaScript
+
+      - layout: top-middle
+        title: Beginning ReactJS By Example
+        link: codeproject.com/Articles/1227248/Beginning-ReactJS-By-Example
+
+      - layout: top-middle
+        title: Knockout Code with KnockoutJS
+        link: codeproject.com/Articles/1056775/Knockout-Code-with-KnockoutJS
+
+      - layout: top-middle
+        title: Easy JavaScript Generic List Implementation
+        link: codeproject.com/Tips/378906/Easy-JavaScript-Generic-List-Implementation
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -142,6 +172,83 @@ content:
             Designed and developed custom applications (ASP.NET, C#, JavaScript) that integrate marketing, accounting, and sales.
             
             Designed and developed a master data management web application (ASP.NET, C#, JavaScript) and database (SqlServer) along with a batch process to perform de-duplication and record linking from many sources of contact and company data.
+
+      - layout: left
+        title: Independent Software Developer
+        link: www.divcom.com
+        sub_title: test
+        caption: Sep 2009 - Aug 2015
+        quote: >
+          C#, ASP.NET, JavaScript, MySQL, WCF, Silverlight, ADO.NET
+        description: | # this will include new lines to allow paragraphs
+            <b>University Disability Consortium, Newton, MA</b>
+              - Developed a web application using ASP.NET, C#, JavaScript, WCF, and MySql to manage referrals and associated documents for use by employees, consultants, and clients.
+
+            <b>Professional Disability Associates, Portland, ME</b>
+              - Developed a SharePoint site primarily focused on sharing medical documents between employees, consultants, and clients.
+              - Developed a claim management system using Silverlight, WCF, ADO.NET Data Services, and ADO.NET Entity Data Modeling.
+
+            <b>Dial Medical Direct Inc, South Portland, ME</b>
+              - Developed functionality within Microsoft Access that creates Health Care Claim Professional (837P) EDI documents.
+              - Developed and implemented a delivery confirmation application that interfaces with UPS and USPS using XML-based web services.
+
+      - layout: left
+        title: AMS Services
+        link: 
+        sub_title: Senior Software Engineer
+        caption: Sep 2006 - Feb 2010
+        quote: >
+          C#, ASP.NET, WWF, WPF, WCF, XML, SqlServer, Oracle
+        description: | # this will include new lines to allow paragraphs
+            Designed and developed custom workflow activities for UI page processing in Microsoft’s Windows Workflow Foundation.
+            
+            Developed a Windows Presentation Foundation application to allow clients to create customized web pages from database schema.
+            
+            Designed and developed XML-based ASP.NET Web services (C#) that access SqlServer and Oracle databases and integrated these services with an existing insurance policy processing client application.
+            
+            Designed and developed a WPF-based client UI and associated business service that utilizes the above Web services.
+            
+            Converted ASP.NET Web services to WCF services.
+
+      - layout: left
+        title: Aetna (formerly Broadspire, Inc.)
+        link: aetna.com
+        sub_title: Senior Software Engineer
+        caption: May 2002 - Sep 2006
+        quote: >
+          VB.NET, ASP.NET, Oracle
+        description: | # this will include new lines to allow paragraphs
+            Designed and developed a Web-based “script engine” and an associated “script maintenance” application that allows business analysts to build their own scripts for data intake through the Web (VB.NET and ASP.NET 2.0).
+            
+            Designed and developed major enhancements to a Web-based absence management application (VB.NET and ASP.NET 2.0).
+            
+            Rewrote major parts of the existing code base using a Microsoft-based software architecture that includes the implementation of Business Entities and Business Process Components to make the code base more maintainable and efficient.
+
+      - layout: left
+        title: DeLorme, Inc.
+        link: garmin.com
+        sub_title: Software Engineer
+        caption: Apr 2000 - Apr 2002
+        quote: >
+          C++, COM
+        description: | # this will include new lines to allow paragraphs
+          Maintained and enhanced a set of GIS software components (C++ and COM) used in a variety of world-re-known mapping software products.  These components include a GPS interface, an Internet download component, and a map printing component.
+          
+          Worked closely with a user interface design group in analyzing and designing new interfaces for software components.
+
+      - layout: left
+        title: Allenbrook, Inc.
+        link: 
+        sub_title: Software Developer
+        caption: Sep 1996 - Apr 2000
+        quote: >
+          C++, COM, Centura, Oracle, SqlServer, SQLBase
+        description: | # this will include new lines to allow paragraphs
+          Designed and developed major enhancements to, as well as maintained and supported, a tool-based client/server insurance policy processing system (including, but not limited to, policy entry, billing, commissions and rating) using Centura Team Developer, Visual C++, and COM.
+          
+          Designed, developed, and gathered requirements for a major insurance tool sub-set used to process Premium Audits and integrated this new functionality into the existing tool set.
+          
+          Develop database scripts for Oracle, SqlServer, and SQLBase.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
